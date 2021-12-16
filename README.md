@@ -1,6 +1,6 @@
 # c-pl-github-classroom-template
 
-Programming Exercises on ....
+Programming Exercises on Structs and Linked Lists
 
 ## 你的任务
 
